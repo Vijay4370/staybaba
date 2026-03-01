@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "full_name": "Vijay Singh Raghuwanshi",
+    "username": "vijay",
+    "email": "vrajput7980@gmail.com",
+    "phone": "7024512762",
+    "role": "student",
+    "password": "$2a$10$JHt7U0OLdGZIPvLL02doLO3Mw4qTWNPS6cwkydXSeEXY2YAj8HTo6",
+    "lastLoginIP": "::1",
+    "createdAt": "2026-02-27T21:27:09.699Z"
+  },
+  {
+    "id": 2,
+    "full_name": "mohit",
+    "username": "43mo",
+    "email": "yashpatels@gmail.com",
+    "phone": "6264831998",
+    "role": "owner",
+    "password": "$2a$10$Lk..AelsiESQCkYZ8UN.wuymWxLDxSV6bRhFZB.Jc734gArVmnpvm",
+    "lastLoginIP": "::1",
+    "createdAt": "2026-02-28T09:07:23.033Z"
+  }
+]

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles
+html, body, #root {
+	height: 100%; */
+/* } */
+@import "tailwindcss";
