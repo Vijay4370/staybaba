@@ -1,16 +1,50 @@
-# React + Vite
+# StayBaba - Rental Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack rental platform for students to find suitable accommodations and owners to manage their properties.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Frontend
+- React + Vite
+- Tailwind CSS
+- React Router
 
-## React Compiler
+### Backend
+- Node.js
+- Express
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+### For Students
+- Browse available rooms and flats
+- Search and filter listings
+- Save favorite properties
+- Book rooms
+- Make payments
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### For Owners
+- Add property listings
+- Manage bookings
+- View payment history
+- Dashboard with analytics
+
+## Getting Started
+
+### Frontend
+```
+bash
+npm install
+npm run dev
+```
+
+### Backend
+```
+bash
+cd staybaba-backend
+npm install
+node server.js
+```
+
+## License
+
+MIT
